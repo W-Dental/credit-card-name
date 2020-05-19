@@ -1,6 +1,6 @@
 {
   "name": "@w.dental/credit-card-name",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "sideEffects": false,
   "description": "Lib for get credit card flag by initials numbers",
   "files": [
@@ -25,9 +25,8 @@
     "url": "git+https://github.com/W-Dental/credit-card-name.git"
   },
   "keywords": [
-    "boilerplate",
-    "libs",
-    "lib"
+    "credit-card",
+    "creditCard"
   ],
   "author": "W-Dental",
   "license": "MIT",
