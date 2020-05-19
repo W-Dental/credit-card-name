@@ -1,4 +1,9 @@
-import { CreditCardConfig } from '../types/CreditCardConfig';
+export type CreditCardConfig = {
+  name: string;
+  regexpBin: RegExp;
+  regexpFull: RegExp;
+  regexpCvv: RegExp;
+}
 
 export const CREDIT_CARD_CONFIG: Array<CreditCardConfig> = [
   {

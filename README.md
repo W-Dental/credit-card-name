@@ -2,7 +2,7 @@
     Lib for get credit card flag by initials numbers
     Lib para pegar bandeira do cartão de crédito pelos números iniciais
 
-## Funcionamento:
+## Funcionamento
  ``import getCreditCardOperatorByInitalsNumber from credit-card-name;``
 
     The used params must be string and must be a valid value
@@ -13,10 +13,10 @@
     Caso não seja um valor válido, ele irá disparar um erro 
  `` {YOUR_VALUE} is an invalid value or type, please see documentations for more infos!``   
 
-# Dependencies
+## Dependencies
 * node >= 12
 
-# Configuration
+## Configuration
 1. Install packages using `npm i`
 2. Update package's name and description on `package.json`
 3. Update {{LIB_NAME}} on `.bilirc.ts`
