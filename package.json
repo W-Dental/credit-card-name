@@ -1,5 +1,5 @@
 {
-  "name": "@wd/credit-card-name",
+  "name": "@w.dental/credit-card-name",
   "version": "0.0.1",
   "sideEffects": false,
   "description": "Lib for get credit card flag by initials numbers",
