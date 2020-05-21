@@ -1,4 +1,6 @@
 # credit-card-name
+[![DeepScan grade](https://deepscan.io/api/teams/9337/projects/11810/branches/175571/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9337&pid=11810&bid=175571)
+
     Lib for get credit card flag by initials numbers
     Lib para pegar bandeira do cartão de crédito pelos números iniciais
 
